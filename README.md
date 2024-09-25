@@ -1,10 +1,10 @@
 # Windows Terminal Themes
 Terminal (Windows Terminal) theme using Evangelion Palette by Yagasaki7K
 
-Retro terminal effect is enabled
+Retro terminal effect need to be enabled
 
 ## How to Install?
-1. First you need to install Windows Terminal from [Microsoft Store](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=pt-br&gl=BR)
+1. You need to install Windows Terminal from [Microsoft Store](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=pt-br&gl=BR)
 2. Open "Menu" and Click on "Settings" OR You can press Ctrl+,
 3. Left side below, select "Open JSON File".
 4. Get the JSON theme, copy and put on schemes together with others themes.
@@ -13,6 +13,13 @@ Retro terminal effect is enabled
 7. Select your profile on left side
 8. In "Additional settings", select "Appearance"
 9. Go in "Color scheme" and select your theme and ENJOY!
+
+## How to enable Retro terminal effect?
+1. Open Windows Terminal
+2. Open "Menu" and Click on "Settings" OR You can press Ctrl+,
+3. Select your profile on left side
+4. Search for "Retro terminal effects"
+5. Enable it and ENJOY!
 
 ## Evangelion 00 (EVA-00)
 ![image](https://github.com/user-attachments/assets/3ef866a0-6456-441b-9f53-103f96643a27)
