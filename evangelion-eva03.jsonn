@@ -1,0 +1,23 @@
+{
+    "background": "#000000",
+    "black": "#0C0C0C",
+    "blue": "#0037DA",
+    "brightBlack": "#767676",
+    "brightBlue": "#73264a",
+    "brightCyan": "#61D6D6",
+    "brightGreen": "#FBE5E5",
+    "brightPurple": "#B4009E",
+    "brightRed": "#73264a",
+    "brightWhite": "#F2F2F2",
+    "brightYellow": "#F9F1A5",
+    "cursorColor": "#FFFFFF",
+    "cyan": "#EA8532",
+    "foreground": "#d7d7d7",
+    "green": "#554f73",
+    "name": "Evangelion III",
+    "purple": "#881798",
+    "red": "#C50F1F",
+    "selectionBackground": "#333333",
+    "white": "#CCCCCC",
+    "yellow": "#F6BC29"
+}
